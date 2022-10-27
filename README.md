@@ -1,4 +1,4 @@
-# sql_files
+# Pizza Shop Database Analysis
 This project is an idea from the know website fro data analysis Maven Analytics.
 The October of 2022 released a new challenge for data analysis.
 The data files include worth of sales from a fictitious pizza place, 
